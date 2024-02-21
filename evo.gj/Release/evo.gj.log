@@ -1,0 +1,950 @@
+﻿  aimbot.cpp
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\driver\driver.h(5,14): error C7525: wbudowane zmienne wymagają co najmniej elementu „/std:c++17”
+  (kompilowanie pliku źródłowego „cheat/aimbot/aimbot.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\driver\driver.h(6,18): error C7525: wbudowane zmienne wymagają co najmniej elementu „/std:c++17”
+  (kompilowanie pliku źródłowego „cheat/aimbot/aimbot.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\driver\driver.h(44,23): error C7525: wbudowane zmienne wymagają co najmniej elementu „/std:c++17”
+  (kompilowanie pliku źródłowego „cheat/aimbot/aimbot.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(39,21): warning C4091: "extern ": zignorowano na lewo od "Vector2" podczas gdy brak deklaracji zmiennej
+  (kompilowanie pliku źródłowego „cheat/aimbot/aimbot.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(40,21): warning C4091: "extern ": zignorowano na lewo od "Vector3" podczas gdy brak deklaracji zmiennej
+  (kompilowanie pliku źródłowego „cheat/aimbot/aimbot.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(107,32): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „cheat/aimbot/aimbot.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(107,53): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „cheat/aimbot/aimbot.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(107,74): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „cheat/aimbot/aimbot.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(143,22): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „cheat/aimbot/aimbot.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(144,22): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „cheat/aimbot/aimbot.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(145,22): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „cheat/aimbot/aimbot.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(147,12): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „cheat/aimbot/aimbot.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(148,12): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „cheat/aimbot/aimbot.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(149,12): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „cheat/aimbot/aimbot.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(151,13): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „cheat/aimbot/aimbot.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(152,13): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „cheat/aimbot/aimbot.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(153,13): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „cheat/aimbot/aimbot.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(154,32): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „cheat/aimbot/aimbot.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(155,32): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „cheat/aimbot/aimbot.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(156,32): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „cheat/aimbot/aimbot.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(158,13): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „cheat/aimbot/aimbot.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(159,13): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „cheat/aimbot/aimbot.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(160,23): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „cheat/aimbot/aimbot.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(161,23): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „cheat/aimbot/aimbot.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(163,13): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „cheat/aimbot/aimbot.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(164,13): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „cheat/aimbot/aimbot.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(165,23): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „cheat/aimbot/aimbot.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(166,23): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „cheat/aimbot/aimbot.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(168,13): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „cheat/aimbot/aimbot.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(169,13): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „cheat/aimbot/aimbot.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(170,23): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „cheat/aimbot/aimbot.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(171,23): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „cheat/aimbot/aimbot.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\esp\esp.h(9,13): error C7525: wbudowane zmienne wymagają co najmniej elementu „/std:c++17”
+  (kompilowanie pliku źródłowego „cheat/aimbot/aimbot.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\sdk\sdk.h(14,19): error C7525: wbudowane zmienne wymagają co najmniej elementu „/std:c++17”
+  (kompilowanie pliku źródłowego „cheat/aimbot/aimbot.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\sdk\sdk.h(15,19): error C7525: wbudowane zmienne wymagają co najmniej elementu „/std:c++17”
+  (kompilowanie pliku źródłowego „cheat/aimbot/aimbot.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\sdk\sdk.h(16,19): error C7525: wbudowane zmienne wymagają co najmniej elementu „/std:c++17”
+  (kompilowanie pliku źródłowego „cheat/aimbot/aimbot.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\sdk\sdk.h(17,19): error C7525: wbudowane zmienne wymagają co najmniej elementu „/std:c++17”
+  (kompilowanie pliku źródłowego „cheat/aimbot/aimbot.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\sdk\sdk.h(18,19): error C7525: wbudowane zmienne wymagają co najmniej elementu „/std:c++17”
+  (kompilowanie pliku źródłowego „cheat/aimbot/aimbot.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\sdk\sdk.h(19,19): error C7525: wbudowane zmienne wymagają co najmniej elementu „/std:c++17”
+  (kompilowanie pliku źródłowego „cheat/aimbot/aimbot.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\sdk\sdk.h(20,19): error C7525: wbudowane zmienne wymagają co najmniej elementu „/std:c++17”
+  (kompilowanie pliku źródłowego „cheat/aimbot/aimbot.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\sdk\sdk.h(22,15): error C7525: wbudowane zmienne wymagają co najmniej elementu „/std:c++17”
+  (kompilowanie pliku źródłowego „cheat/aimbot/aimbot.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\aimbot\aimbot.h(7,18): error C7525: wbudowane zmienne wymagają co najmniej elementu „/std:c++17”
+  (kompilowanie pliku źródłowego „cheat/aimbot/aimbot.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\aimbot\aimbot.h(8,14): error C7525: wbudowane zmienne wymagają co najmniej elementu „/std:c++17”
+  (kompilowanie pliku źródłowego „cheat/aimbot/aimbot.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\aimbot\aimbot.h(9,12): error C7525: wbudowane zmienne wymagają co najmniej elementu „/std:c++17”
+  (kompilowanie pliku źródłowego „cheat/aimbot/aimbot.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\aimbot\aimbot.h(10,13): error C7525: wbudowane zmienne wymagają co najmniej elementu „/std:c++17”
+  (kompilowanie pliku źródłowego „cheat/aimbot/aimbot.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\aimbot\aimbot.h(11,14): error C7525: wbudowane zmienne wymagają co najmniej elementu „/std:c++17”
+  (kompilowanie pliku źródłowego „cheat/aimbot/aimbot.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\aimbot\aimbot.h(12,13): error C7525: wbudowane zmienne wymagają co najmniej elementu „/std:c++17”
+  (kompilowanie pliku źródłowego „cheat/aimbot/aimbot.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\aimbot\aimbot.h(13,13): error C7525: wbudowane zmienne wymagają co najmniej elementu „/std:c++17”
+  (kompilowanie pliku źródłowego „cheat/aimbot/aimbot.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\aimbot\aimbot.cpp(22,10): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\aimbot\aimbot.cpp(22,30): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\aimbot\aimbot.cpp(61,48): warning C4244: "argument": konwersja z "double" do "DWORD", możliwa utrata danych
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\aimbot\aimbot.cpp(61,38): warning C4244: "argument": konwersja z "double" do "DWORD", możliwa utrata danych
+  driver.cpp
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\driver\driver.h(5,14): error C7525: wbudowane zmienne wymagają co najmniej elementu „/std:c++17”
+  (kompilowanie pliku źródłowego „cheat/driver/driver.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\driver\driver.h(6,18): error C7525: wbudowane zmienne wymagają co najmniej elementu „/std:c++17”
+  (kompilowanie pliku źródłowego „cheat/driver/driver.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\driver\driver.h(44,23): error C7525: wbudowane zmienne wymagają co najmniej elementu „/std:c++17”
+  (kompilowanie pliku źródłowego „cheat/driver/driver.cpp”)
+  
+  esp.cpp
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\driver\driver.h(5,14): error C7525: wbudowane zmienne wymagają co najmniej elementu „/std:c++17”
+  (kompilowanie pliku źródłowego „cheat/esp/esp.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\driver\driver.h(6,18): error C7525: wbudowane zmienne wymagają co najmniej elementu „/std:c++17”
+  (kompilowanie pliku źródłowego „cheat/esp/esp.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\driver\driver.h(44,23): error C7525: wbudowane zmienne wymagają co najmniej elementu „/std:c++17”
+  (kompilowanie pliku źródłowego „cheat/esp/esp.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(39,21): warning C4091: "extern ": zignorowano na lewo od "Vector2" podczas gdy brak deklaracji zmiennej
+  (kompilowanie pliku źródłowego „cheat/esp/esp.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(40,21): warning C4091: "extern ": zignorowano na lewo od "Vector3" podczas gdy brak deklaracji zmiennej
+  (kompilowanie pliku źródłowego „cheat/esp/esp.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(107,32): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „cheat/esp/esp.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(107,53): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „cheat/esp/esp.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(107,74): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „cheat/esp/esp.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(143,22): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „cheat/esp/esp.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(144,22): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „cheat/esp/esp.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(145,22): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „cheat/esp/esp.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(147,12): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „cheat/esp/esp.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(148,12): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „cheat/esp/esp.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(149,12): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „cheat/esp/esp.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(151,13): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „cheat/esp/esp.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(152,13): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „cheat/esp/esp.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(153,13): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „cheat/esp/esp.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(154,32): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „cheat/esp/esp.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(155,32): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „cheat/esp/esp.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(156,32): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „cheat/esp/esp.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(158,13): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „cheat/esp/esp.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(159,13): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „cheat/esp/esp.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(160,23): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „cheat/esp/esp.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(161,23): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „cheat/esp/esp.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(163,13): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „cheat/esp/esp.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(164,13): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „cheat/esp/esp.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(165,23): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „cheat/esp/esp.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(166,23): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „cheat/esp/esp.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(168,13): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „cheat/esp/esp.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(169,13): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „cheat/esp/esp.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(170,23): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „cheat/esp/esp.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(171,23): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „cheat/esp/esp.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\sdk\sdk.h(14,19): error C7525: wbudowane zmienne wymagają co najmniej elementu „/std:c++17”
+  (kompilowanie pliku źródłowego „cheat/esp/esp.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\sdk\sdk.h(15,19): error C7525: wbudowane zmienne wymagają co najmniej elementu „/std:c++17”
+  (kompilowanie pliku źródłowego „cheat/esp/esp.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\sdk\sdk.h(16,19): error C7525: wbudowane zmienne wymagają co najmniej elementu „/std:c++17”
+  (kompilowanie pliku źródłowego „cheat/esp/esp.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\sdk\sdk.h(17,19): error C7525: wbudowane zmienne wymagają co najmniej elementu „/std:c++17”
+  (kompilowanie pliku źródłowego „cheat/esp/esp.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\sdk\sdk.h(18,19): error C7525: wbudowane zmienne wymagają co najmniej elementu „/std:c++17”
+  (kompilowanie pliku źródłowego „cheat/esp/esp.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\sdk\sdk.h(19,19): error C7525: wbudowane zmienne wymagają co najmniej elementu „/std:c++17”
+  (kompilowanie pliku źródłowego „cheat/esp/esp.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\sdk\sdk.h(20,19): error C7525: wbudowane zmienne wymagają co najmniej elementu „/std:c++17”
+  (kompilowanie pliku źródłowego „cheat/esp/esp.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\sdk\sdk.h(22,15): error C7525: wbudowane zmienne wymagają co najmniej elementu „/std:c++17”
+  (kompilowanie pliku źródłowego „cheat/esp/esp.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\aimbot\aimbot.h(7,18): error C7525: wbudowane zmienne wymagają co najmniej elementu „/std:c++17”
+  (kompilowanie pliku źródłowego „cheat/esp/esp.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\aimbot\aimbot.h(8,14): error C7525: wbudowane zmienne wymagają co najmniej elementu „/std:c++17”
+  (kompilowanie pliku źródłowego „cheat/esp/esp.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\aimbot\aimbot.h(9,12): error C7525: wbudowane zmienne wymagają co najmniej elementu „/std:c++17”
+  (kompilowanie pliku źródłowego „cheat/esp/esp.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\aimbot\aimbot.h(10,13): error C7525: wbudowane zmienne wymagają co najmniej elementu „/std:c++17”
+  (kompilowanie pliku źródłowego „cheat/esp/esp.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\aimbot\aimbot.h(11,14): error C7525: wbudowane zmienne wymagają co najmniej elementu „/std:c++17”
+  (kompilowanie pliku źródłowego „cheat/esp/esp.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\aimbot\aimbot.h(12,13): error C7525: wbudowane zmienne wymagają co najmniej elementu „/std:c++17”
+  (kompilowanie pliku źródłowego „cheat/esp/esp.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\aimbot\aimbot.h(13,13): error C7525: wbudowane zmienne wymagają co najmniej elementu „/std:c++17”
+  (kompilowanie pliku źródłowego „cheat/esp/esp.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\esp\esp.h(9,13): error C7525: wbudowane zmienne wymagają co najmniej elementu „/std:c++17”
+  (kompilowanie pliku źródłowego „cheat/esp/esp.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\esp\esp.cpp(9,67): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\esp\esp.cpp(9,55): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\esp\esp.cpp(9,73): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\esp\esp.cpp(14,44): warning C4244: "=": konwersja z "Value_T" do "uintptr_t", możliwa utrata danych
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\esp\esp.cpp(14,44): warning C4244:         with
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\esp\esp.cpp(14,44): warning C4244:         [
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\esp\esp.cpp(14,44): warning C4244:             Value_T=uint64_t
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\esp\esp.cpp(14,44): warning C4244:         ]
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\esp\esp.cpp(18,26): warning C4244: "inicjowanie": konwersja z "Value_T" do "uintptr_t", możliwa utrata danych
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\esp\esp.cpp(18,26): warning C4244:         with
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\esp\esp.cpp(18,26): warning C4244:         [
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\esp\esp.cpp(18,26): warning C4244:             Value_T=uint64_t
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\esp\esp.cpp(18,26): warning C4244:         ]
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\esp\esp.cpp(22,72): warning C4244: "argument": konwersja z "Value_T" do "uintptr_t", możliwa utrata danych
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\esp\esp.cpp(22,72): warning C4244:         with
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\esp\esp.cpp(22,72): warning C4244:         [
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\esp\esp.cpp(22,72): warning C4244:             Value_T=uint64_t
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\esp\esp.cpp(22,72): warning C4244:         ]
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\esp\esp.cpp(22,50): warning C4244: "=": konwersja z "Value_T" do "uintptr_t", możliwa utrata danych
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\esp\esp.cpp(22,50): warning C4244:         with
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\esp\esp.cpp(22,50): warning C4244:         [
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\esp\esp.cpp(22,50): warning C4244:             Value_T=uint64_t
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\esp\esp.cpp(22,50): warning C4244:         ]
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\esp\esp.cpp(26,54): warning C4244: "=": konwersja z "Value_T" do "uintptr_t", możliwa utrata danych
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\esp\esp.cpp(26,54): warning C4244:         with
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\esp\esp.cpp(26,54): warning C4244:         [
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\esp\esp.cpp(26,54): warning C4244:             Value_T=uint64_t
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\esp\esp.cpp(26,54): warning C4244:         ]
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\esp\esp.cpp(30,44): warning C4244: "=": konwersja z "Value_T" do "uintptr_t", możliwa utrata danych
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\esp\esp.cpp(30,44): warning C4244:         with
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\esp\esp.cpp(30,44): warning C4244:         [
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\esp\esp.cpp(30,44): warning C4244:             Value_T=uint64_t
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\esp\esp.cpp(30,44): warning C4244:         ]
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\esp\esp.cpp(34,51): warning C4244: "=": konwersja z "Value_T" do "uintptr_t", możliwa utrata danych
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\esp\esp.cpp(34,51): warning C4244:         with
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\esp\esp.cpp(34,51): warning C4244:         [
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\esp\esp.cpp(34,51): warning C4244:             Value_T=uint64_t
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\esp\esp.cpp(34,51): warning C4244:         ]
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\esp\esp.cpp(77,23): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\esp\esp.cpp(78,22): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\esp\esp.cpp(81,120): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\esp\esp.cpp(81,78): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\esp\esp.cpp(81,65): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\esp\esp.cpp(81,61): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\esp\esp.cpp(81,34): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\esp\esp.cpp(86,23): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+  sdk.cpp
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\driver\driver.h(5,14): error C7525: wbudowane zmienne wymagają co najmniej elementu „/std:c++17”
+  (kompilowanie pliku źródłowego „cheat/sdk/sdk.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\driver\driver.h(6,18): error C7525: wbudowane zmienne wymagają co najmniej elementu „/std:c++17”
+  (kompilowanie pliku źródłowego „cheat/sdk/sdk.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\driver\driver.h(44,23): error C7525: wbudowane zmienne wymagają co najmniej elementu „/std:c++17”
+  (kompilowanie pliku źródłowego „cheat/sdk/sdk.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(39,21): warning C4091: "extern ": zignorowano na lewo od "Vector2" podczas gdy brak deklaracji zmiennej
+  (kompilowanie pliku źródłowego „cheat/sdk/sdk.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(40,21): warning C4091: "extern ": zignorowano na lewo od "Vector3" podczas gdy brak deklaracji zmiennej
+  (kompilowanie pliku źródłowego „cheat/sdk/sdk.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(107,32): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „cheat/sdk/sdk.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(107,53): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „cheat/sdk/sdk.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(107,74): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „cheat/sdk/sdk.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(143,22): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „cheat/sdk/sdk.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(144,22): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „cheat/sdk/sdk.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(145,22): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „cheat/sdk/sdk.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(147,12): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „cheat/sdk/sdk.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(148,12): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „cheat/sdk/sdk.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(149,12): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „cheat/sdk/sdk.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(151,13): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „cheat/sdk/sdk.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(152,13): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „cheat/sdk/sdk.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(153,13): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „cheat/sdk/sdk.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(154,32): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „cheat/sdk/sdk.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(155,32): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „cheat/sdk/sdk.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(156,32): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „cheat/sdk/sdk.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(158,13): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „cheat/sdk/sdk.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(159,13): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „cheat/sdk/sdk.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(160,23): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „cheat/sdk/sdk.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(161,23): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „cheat/sdk/sdk.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(163,13): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „cheat/sdk/sdk.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(164,13): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „cheat/sdk/sdk.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(165,23): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „cheat/sdk/sdk.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(166,23): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „cheat/sdk/sdk.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(168,13): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „cheat/sdk/sdk.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(169,13): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „cheat/sdk/sdk.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(170,23): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „cheat/sdk/sdk.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(171,23): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „cheat/sdk/sdk.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\aimbot\aimbot.h(7,18): error C7525: wbudowane zmienne wymagają co najmniej elementu „/std:c++17”
+  (kompilowanie pliku źródłowego „cheat/sdk/sdk.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\aimbot\aimbot.h(8,14): error C7525: wbudowane zmienne wymagają co najmniej elementu „/std:c++17”
+  (kompilowanie pliku źródłowego „cheat/sdk/sdk.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\aimbot\aimbot.h(9,12): error C7525: wbudowane zmienne wymagają co najmniej elementu „/std:c++17”
+  (kompilowanie pliku źródłowego „cheat/sdk/sdk.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\aimbot\aimbot.h(10,13): error C7525: wbudowane zmienne wymagają co najmniej elementu „/std:c++17”
+  (kompilowanie pliku źródłowego „cheat/sdk/sdk.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\aimbot\aimbot.h(11,14): error C7525: wbudowane zmienne wymagają co najmniej elementu „/std:c++17”
+  (kompilowanie pliku źródłowego „cheat/sdk/sdk.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\aimbot\aimbot.h(12,13): error C7525: wbudowane zmienne wymagają co najmniej elementu „/std:c++17”
+  (kompilowanie pliku źródłowego „cheat/sdk/sdk.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\aimbot\aimbot.h(13,13): error C7525: wbudowane zmienne wymagają co najmniej elementu „/std:c++17”
+  (kompilowanie pliku źródłowego „cheat/sdk/sdk.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\esp\esp.h(9,13): error C7525: wbudowane zmienne wymagają co najmniej elementu „/std:c++17”
+  (kompilowanie pliku źródłowego „cheat/sdk/sdk.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\sdk\sdk.h(14,19): error C7525: wbudowane zmienne wymagają co najmniej elementu „/std:c++17”
+  (kompilowanie pliku źródłowego „cheat/sdk/sdk.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\sdk\sdk.h(15,19): error C7525: wbudowane zmienne wymagają co najmniej elementu „/std:c++17”
+  (kompilowanie pliku źródłowego „cheat/sdk/sdk.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\sdk\sdk.h(16,19): error C7525: wbudowane zmienne wymagają co najmniej elementu „/std:c++17”
+  (kompilowanie pliku źródłowego „cheat/sdk/sdk.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\sdk\sdk.h(17,19): error C7525: wbudowane zmienne wymagają co najmniej elementu „/std:c++17”
+  (kompilowanie pliku źródłowego „cheat/sdk/sdk.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\sdk\sdk.h(18,19): error C7525: wbudowane zmienne wymagają co najmniej elementu „/std:c++17”
+  (kompilowanie pliku źródłowego „cheat/sdk/sdk.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\sdk\sdk.h(19,19): error C7525: wbudowane zmienne wymagają co najmniej elementu „/std:c++17”
+  (kompilowanie pliku źródłowego „cheat/sdk/sdk.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\sdk\sdk.h(20,19): error C7525: wbudowane zmienne wymagają co najmniej elementu „/std:c++17”
+  (kompilowanie pliku źródłowego „cheat/sdk/sdk.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\sdk\sdk.h(22,15): error C7525: wbudowane zmienne wymagają co najmniej elementu „/std:c++17”
+  (kompilowanie pliku źródłowego „cheat/sdk/sdk.cpp”)
+  
+  main.cpp
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\driver\driver.h(5,14): error C7525: wbudowane zmienne wymagają co najmniej elementu „/std:c++17”
+  (kompilowanie pliku źródłowego „main.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\driver\driver.h(6,18): error C7525: wbudowane zmienne wymagają co najmniej elementu „/std:c++17”
+  (kompilowanie pliku źródłowego „main.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\driver\driver.h(44,23): error C7525: wbudowane zmienne wymagają co najmniej elementu „/std:c++17”
+  (kompilowanie pliku źródłowego „main.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(39,21): warning C4091: "extern ": zignorowano na lewo od "Vector2" podczas gdy brak deklaracji zmiennej
+  (kompilowanie pliku źródłowego „main.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(40,21): warning C4091: "extern ": zignorowano na lewo od "Vector3" podczas gdy brak deklaracji zmiennej
+  (kompilowanie pliku źródłowego „main.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(107,32): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „main.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(107,53): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „main.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(107,74): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „main.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(143,22): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „main.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(144,22): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „main.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(145,22): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „main.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(147,12): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „main.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(148,12): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „main.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(149,12): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „main.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(151,13): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „main.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(152,13): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „main.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(153,13): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „main.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(154,32): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „main.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(155,32): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „main.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(156,32): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „main.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(158,13): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „main.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(159,13): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „main.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(160,23): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „main.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(161,23): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „main.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(163,13): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „main.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(164,13): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „main.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(165,23): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „main.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(166,23): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „main.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(168,13): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „main.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(169,13): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „main.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(170,23): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „main.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(171,23): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „main.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\esp\esp.h(9,13): error C7525: wbudowane zmienne wymagają co najmniej elementu „/std:c++17”
+  (kompilowanie pliku źródłowego „main.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\sdk\sdk.h(14,19): error C7525: wbudowane zmienne wymagają co najmniej elementu „/std:c++17”
+  (kompilowanie pliku źródłowego „main.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\sdk\sdk.h(15,19): error C7525: wbudowane zmienne wymagają co najmniej elementu „/std:c++17”
+  (kompilowanie pliku źródłowego „main.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\sdk\sdk.h(16,19): error C7525: wbudowane zmienne wymagają co najmniej elementu „/std:c++17”
+  (kompilowanie pliku źródłowego „main.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\sdk\sdk.h(17,19): error C7525: wbudowane zmienne wymagają co najmniej elementu „/std:c++17”
+  (kompilowanie pliku źródłowego „main.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\sdk\sdk.h(18,19): error C7525: wbudowane zmienne wymagają co najmniej elementu „/std:c++17”
+  (kompilowanie pliku źródłowego „main.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\sdk\sdk.h(19,19): error C7525: wbudowane zmienne wymagają co najmniej elementu „/std:c++17”
+  (kompilowanie pliku źródłowego „main.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\sdk\sdk.h(20,19): error C7525: wbudowane zmienne wymagają co najmniej elementu „/std:c++17”
+  (kompilowanie pliku źródłowego „main.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\sdk\sdk.h(22,15): error C7525: wbudowane zmienne wymagają co najmniej elementu „/std:c++17”
+  (kompilowanie pliku źródłowego „main.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\aimbot\aimbot.h(7,18): error C7525: wbudowane zmienne wymagają co najmniej elementu „/std:c++17”
+  (kompilowanie pliku źródłowego „main.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\aimbot\aimbot.h(8,14): error C7525: wbudowane zmienne wymagają co najmniej elementu „/std:c++17”
+  (kompilowanie pliku źródłowego „main.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\aimbot\aimbot.h(9,12): error C7525: wbudowane zmienne wymagają co najmniej elementu „/std:c++17”
+  (kompilowanie pliku źródłowego „main.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\aimbot\aimbot.h(10,13): error C7525: wbudowane zmienne wymagają co najmniej elementu „/std:c++17”
+  (kompilowanie pliku źródłowego „main.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\aimbot\aimbot.h(11,14): error C7525: wbudowane zmienne wymagają co najmniej elementu „/std:c++17”
+  (kompilowanie pliku źródłowego „main.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\aimbot\aimbot.h(12,13): error C7525: wbudowane zmienne wymagają co najmniej elementu „/std:c++17”
+  (kompilowanie pliku źródłowego „main.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\aimbot\aimbot.h(13,13): error C7525: wbudowane zmienne wymagają co najmniej elementu „/std:c++17”
+  (kompilowanie pliku źródłowego „main.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\render\render.cpp(166,2): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (kompilowanie pliku źródłowego „main.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\render\render.cpp(217,23): warning C4244: "=": konwersja z "LONG" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „main.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\render\render.cpp(218,23): warning C4244: "=": konwersja z "LONG" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „main.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\render\render.cpp(298,69): warning C4244: "argument": konwersja z "LONG" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „main.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\render\render.cpp(298,60): warning C4244: "argument": konwersja z "LONG" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „main.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\main.cpp(11,584): error C3861: "ahahah": identyfikatora nie odnaleziono
+C:\Users\dawid\Desktop\sh9t\evo.gj\main.cpp(15,6): warning C4551: wywołaniu funkcji brakuje listy argumentów
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_dx9.cpp
+  imgui_impl_win32.cpp
+  imgui_widgets.cpp
+  render.cpp
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\driver\driver.h(5,14): error C7525: wbudowane zmienne wymagają co najmniej elementu „/std:c++17”
+  (kompilowanie pliku źródłowego „render/render.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\driver\driver.h(6,18): error C7525: wbudowane zmienne wymagają co najmniej elementu „/std:c++17”
+  (kompilowanie pliku źródłowego „render/render.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\driver\driver.h(44,23): error C7525: wbudowane zmienne wymagają co najmniej elementu „/std:c++17”
+  (kompilowanie pliku źródłowego „render/render.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(39,21): warning C4091: "extern ": zignorowano na lewo od "Vector2" podczas gdy brak deklaracji zmiennej
+  (kompilowanie pliku źródłowego „render/render.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(40,21): warning C4091: "extern ": zignorowano na lewo od "Vector3" podczas gdy brak deklaracji zmiennej
+  (kompilowanie pliku źródłowego „render/render.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(107,32): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „render/render.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(107,53): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „render/render.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(107,74): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „render/render.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(143,22): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „render/render.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(144,22): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „render/render.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(145,22): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „render/render.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(147,12): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „render/render.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(148,12): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „render/render.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(149,12): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „render/render.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(151,13): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „render/render.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(152,13): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „render/render.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(153,13): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „render/render.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(154,32): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „render/render.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(155,32): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „render/render.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(156,32): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „render/render.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(158,13): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „render/render.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(159,13): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „render/render.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(160,23): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „render/render.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(161,23): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „render/render.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(163,13): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „render/render.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(164,13): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „render/render.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(165,23): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „render/render.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(166,23): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „render/render.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(168,13): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „render/render.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(169,13): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „render/render.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(170,23): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „render/render.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(171,23): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „render/render.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\esp\esp.h(9,13): error C7525: wbudowane zmienne wymagają co najmniej elementu „/std:c++17”
+  (kompilowanie pliku źródłowego „render/render.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\sdk\sdk.h(14,19): error C7525: wbudowane zmienne wymagają co najmniej elementu „/std:c++17”
+  (kompilowanie pliku źródłowego „render/render.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\sdk\sdk.h(15,19): error C7525: wbudowane zmienne wymagają co najmniej elementu „/std:c++17”
+  (kompilowanie pliku źródłowego „render/render.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\sdk\sdk.h(16,19): error C7525: wbudowane zmienne wymagają co najmniej elementu „/std:c++17”
+  (kompilowanie pliku źródłowego „render/render.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\sdk\sdk.h(17,19): error C7525: wbudowane zmienne wymagają co najmniej elementu „/std:c++17”
+  (kompilowanie pliku źródłowego „render/render.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\sdk\sdk.h(18,19): error C7525: wbudowane zmienne wymagają co najmniej elementu „/std:c++17”
+  (kompilowanie pliku źródłowego „render/render.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\sdk\sdk.h(19,19): error C7525: wbudowane zmienne wymagają co najmniej elementu „/std:c++17”
+  (kompilowanie pliku źródłowego „render/render.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\sdk\sdk.h(20,19): error C7525: wbudowane zmienne wymagają co najmniej elementu „/std:c++17”
+  (kompilowanie pliku źródłowego „render/render.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\sdk\sdk.h(22,15): error C7525: wbudowane zmienne wymagają co najmniej elementu „/std:c++17”
+  (kompilowanie pliku źródłowego „render/render.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\aimbot\aimbot.h(7,18): error C7525: wbudowane zmienne wymagają co najmniej elementu „/std:c++17”
+  (kompilowanie pliku źródłowego „render/render.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\aimbot\aimbot.h(8,14): error C7525: wbudowane zmienne wymagają co najmniej elementu „/std:c++17”
+  (kompilowanie pliku źródłowego „render/render.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\aimbot\aimbot.h(9,12): error C7525: wbudowane zmienne wymagają co najmniej elementu „/std:c++17”
+  (kompilowanie pliku źródłowego „render/render.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\aimbot\aimbot.h(10,13): error C7525: wbudowane zmienne wymagają co najmniej elementu „/std:c++17”
+  (kompilowanie pliku źródłowego „render/render.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\aimbot\aimbot.h(11,14): error C7525: wbudowane zmienne wymagają co najmniej elementu „/std:c++17”
+  (kompilowanie pliku źródłowego „render/render.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\aimbot\aimbot.h(12,13): error C7525: wbudowane zmienne wymagają co najmniej elementu „/std:c++17”
+  (kompilowanie pliku źródłowego „render/render.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\aimbot\aimbot.h(13,13): error C7525: wbudowane zmienne wymagają co najmniej elementu „/std:c++17”
+  (kompilowanie pliku źródłowego „render/render.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\render\render.cpp(166,2): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\dawid\Desktop\sh9t\evo.gj\render\render.cpp(217,23): warning C4244: "=": konwersja z "LONG" do "float", możliwa utrata danych
+C:\Users\dawid\Desktop\sh9t\evo.gj\render\render.cpp(218,23): warning C4244: "=": konwersja z "LONG" do "float", możliwa utrata danych
+C:\Users\dawid\Desktop\sh9t\evo.gj\render\render.cpp(298,69): warning C4244: "argument": konwersja z "LONG" do "float", możliwa utrata danych
+C:\Users\dawid\Desktop\sh9t\evo.gj\render\render.cpp(298,60): warning C4244: "argument": konwersja z "LONG" do "float", możliwa utrata danych
+  util.cpp
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\driver\driver.h(5,14): error C7525: wbudowane zmienne wymagają co najmniej elementu „/std:c++17”
+  (kompilowanie pliku źródłowego „util/util.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\driver\driver.h(6,18): error C7525: wbudowane zmienne wymagają co najmniej elementu „/std:c++17”
+  (kompilowanie pliku źródłowego „util/util.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\cheat\driver\driver.h(44,23): error C7525: wbudowane zmienne wymagają co najmniej elementu „/std:c++17”
+  (kompilowanie pliku źródłowego „util/util.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(39,21): warning C4091: "extern ": zignorowano na lewo od "Vector2" podczas gdy brak deklaracji zmiennej
+  (kompilowanie pliku źródłowego „util/util.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(40,21): warning C4091: "extern ": zignorowano na lewo od "Vector3" podczas gdy brak deklaracji zmiennej
+  (kompilowanie pliku źródłowego „util/util.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(107,32): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „util/util.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(107,53): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „util/util.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(107,74): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „util/util.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(143,22): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „util/util.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(144,22): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „util/util.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(145,22): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „util/util.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(147,12): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „util/util.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(148,12): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „util/util.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(149,12): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „util/util.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(151,13): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „util/util.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(152,13): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „util/util.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(153,13): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „util/util.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(154,32): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „util/util.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(155,32): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „util/util.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(156,32): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „util/util.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(158,13): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „util/util.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(159,13): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „util/util.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(160,23): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „util/util.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(161,23): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „util/util.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(163,13): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „util/util.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(164,13): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „util/util.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(165,23): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „util/util.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(166,23): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „util/util.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(168,13): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „util/util.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(169,13): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „util/util.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(170,23): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „util/util.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.h(171,23): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „util/util.cpp”)
+  
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.cpp(101,14): warning C4244: "inicjowanie": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.cpp(102,14): warning C4244: "inicjowanie": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.cpp(104,49): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.cpp(104,46): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.cpp(104,60): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.cpp(104,82): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.cpp(105,49): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.cpp(105,46): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.cpp(105,71): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.cpp(105,82): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.cpp(106,61): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.cpp(106,79): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.cpp(106,74): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.cpp(106,90): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.cpp(107,53): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.cpp(107,48): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.cpp(107,66): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.cpp(107,90): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.cpp(108,46): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.cpp(108,77): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.cpp(108,72): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.cpp(108,90): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.cpp(109,51): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.cpp(109,46): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.cpp(109,77): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.cpp(109,90): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.cpp(110,63): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.cpp(110,85): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.cpp(110,78): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.cpp(110,98): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.cpp(111,48): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.cpp(111,85): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.cpp(111,78): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.cpp(111,98): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.cpp(150,17): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.cpp(151,15): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.cpp(152,16): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.cpp(177,25): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.cpp(178,25): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\dawid\Desktop\sh9t\evo.gj\util\util.cpp(179,25): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
